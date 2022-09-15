@@ -3,6 +3,7 @@
 <h2> 💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/Cybersmith077/ActiveDirectoryHomeLab)
+  - [Migrating from Windows 2012 CA Server to Windows 2019 CA Server](https://github.com/Cybersmith077/CA2012toCA2019Migration)
 
 <h2> 📜 Certifications:</h2>
 
